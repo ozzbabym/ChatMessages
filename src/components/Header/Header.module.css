@@ -1,0 +1,23 @@
+.header{
+    background: black;
+    color: aliceblue;
+    width: 1000px;
+    height: 160px;
+    text-align: center;
+    margin: 0 auto;
+    
+  }
+
+
+  .form{
+      padding: 3px;
+  }
+
+  .button{
+      margin-right: 10px;
+  }
+
+  .link{
+      color: aliceblue;
+      text-decoration: none;
+  }
