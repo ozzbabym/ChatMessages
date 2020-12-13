@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ChatMessages/static/css/main.442303d5.chunk.css",
-    "main.js": "/ChatMessages/static/js/main.94a04a7d.chunk.js",
-    "main.js.map": "/ChatMessages/static/js/main.94a04a7d.chunk.js.map",
+    "main.css": "/ChatMessages/static/css/main.9b07fd02.chunk.css",
+    "main.js": "/ChatMessages/static/js/main.de0b8bbd.chunk.js",
+    "main.js.map": "/ChatMessages/static/js/main.de0b8bbd.chunk.js.map",
     "runtime-main.js": "/ChatMessages/static/js/runtime-main.61fc837f.js",
     "runtime-main.js.map": "/ChatMessages/static/js/runtime-main.61fc837f.js.map",
-    "static/js/2.d6932080.chunk.js": "/ChatMessages/static/js/2.d6932080.chunk.js",
-    "static/js/2.d6932080.chunk.js.map": "/ChatMessages/static/js/2.d6932080.chunk.js.map",
+    "static/js/2.3cf914c4.chunk.js": "/ChatMessages/static/js/2.3cf914c4.chunk.js",
+    "static/js/2.3cf914c4.chunk.js.map": "/ChatMessages/static/js/2.3cf914c4.chunk.js.map",
     "static/js/3.e80ca603.chunk.js": "/ChatMessages/static/js/3.e80ca603.chunk.js",
     "static/js/3.e80ca603.chunk.js.map": "/ChatMessages/static/js/3.e80ca603.chunk.js.map",
     "index.html": "/ChatMessages/index.html",
-    "static/css/main.442303d5.chunk.css.map": "/ChatMessages/static/css/main.442303d5.chunk.css.map",
-    "static/js/2.d6932080.chunk.js.LICENSE.txt": "/ChatMessages/static/js/2.d6932080.chunk.js.LICENSE.txt"
+    "static/css/main.9b07fd02.chunk.css.map": "/ChatMessages/static/css/main.9b07fd02.chunk.css.map",
+    "static/js/2.3cf914c4.chunk.js.LICENSE.txt": "/ChatMessages/static/js/2.3cf914c4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.61fc837f.js",
-    "static/js/2.d6932080.chunk.js",
-    "static/css/main.442303d5.chunk.css",
-    "static/js/main.94a04a7d.chunk.js"
+    "static/js/2.3cf914c4.chunk.js",
+    "static/css/main.9b07fd02.chunk.css",
+    "static/js/main.de0b8bbd.chunk.js"
   ]
 }
